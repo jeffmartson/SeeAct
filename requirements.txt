@@ -11,3 +11,4 @@ protobuf
 BeautifulSoup4
 toml
 aioconsole
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
